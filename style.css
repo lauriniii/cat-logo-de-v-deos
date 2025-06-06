@@ -1,5 +1,5 @@
 ody {
-    color: rgb(133, 194, 212);
+    color: rgb(60, 45, 150);
     background: black;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
@@ -15,7 +15,7 @@ header {
 }
 
 .chamada {
-    background: rgb(37, 3, 161);
+    background: rgb(90, 153, 211);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
